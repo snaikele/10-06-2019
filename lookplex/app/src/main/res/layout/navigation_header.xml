@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/headerbackground">
+<ImageView
+    android:layout_width="300dp"
+    android:layout_height="130dp"
+    android:layout_marginTop="15dp"
+    android:layout_marginBottom="15dp"
+    />
+    <Button
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linkBtn"
+        android:text="www.ascellent.co.in"
+        android:textColor="@color/colorWhite"
+        android:background="#00000000"/>
+</LinearLayout>

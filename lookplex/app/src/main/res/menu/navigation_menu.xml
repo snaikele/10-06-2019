@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/item1"
+            android:title="Login"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            >
+
+        </item>
+
+
+        <item
+            android:id="@+id/item2"
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp">
+
+        </item>
+
+
+        <item android:id="@+id/item3"
+            android:title="My Appointments"
+            android:icon="@drawable/ic_timer_black_24dp">
+
+        </item>
+
+        <item android:id="@+id/item4"
+            android:title="Subscription"
+            android:icon="@drawable/ic_subscriptions_black_24dp">
+
+        </item>
+
+
+        <item
+            android:id="@+id/item5"
+            android:title="Offers"
+            android:icon="@drawable/ic_local_offer_black_24dp">
+
+        </item>
+
+    <item
+        android:id="@+id/item6"
+        android:title="@string/refer"
+
+        android:icon="@drawable/ic_person_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/item7"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_star_black_24dp">
+
+    </item>
+</menu>
